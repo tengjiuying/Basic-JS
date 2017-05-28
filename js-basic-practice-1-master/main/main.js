@@ -1,5 +1,5 @@
 // Write your cade below:
-function caclRemaindar(a,b) {return a%b};
+ function caclRemaindar(a,b) {return a%b};
 
 function caclSum(numArray) {
     "use strict";
@@ -9,7 +9,7 @@ function caclSum(numArray) {
     });
     return sum; }
 
-function caclSumInConditon(numArray,num) {
+ function caclSumInConditon(numArray,num) {
     'use strict';
     let sum = 0 ;
     numArray.forEach((item)=>{
